@@ -28,9 +28,9 @@
      <colorrole role="Button">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>240</red>
-        <green>249</green>
-        <blue>255</blue>
+        <red>244</red>
+        <green>244</green>
+        <blue>243</blue>
        </color>
       </brush>
      </colorrole>
@@ -46,27 +46,27 @@
      <colorrole role="Midlight">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>247</red>
-        <green>252</green>
-        <blue>255</blue>
+        <red>249</red>
+        <green>249</green>
+        <blue>249</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Dark">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>120</red>
-        <green>124</green>
-        <blue>127</blue>
+        <red>122</red>
+        <green>122</green>
+        <blue>121</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Mid">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>160</red>
-        <green>166</green>
-        <blue>170</blue>
+        <red>163</red>
+        <green>163</green>
+        <blue>162</blue>
        </color>
       </brush>
      </colorrole>
@@ -109,9 +109,9 @@
      <colorrole role="Window">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>240</red>
-        <green>249</green>
-        <blue>255</blue>
+        <red>244</red>
+        <green>244</green>
+        <blue>243</blue>
        </color>
       </brush>
      </colorrole>
@@ -127,9 +127,9 @@
      <colorrole role="AlternateBase">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>247</red>
-        <green>252</green>
-        <blue>255</blue>
+        <red>249</red>
+        <green>249</green>
+        <blue>249</blue>
        </color>
       </brush>
      </colorrole>
@@ -165,9 +165,9 @@
      <colorrole role="Button">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>240</red>
-        <green>249</green>
-        <blue>255</blue>
+        <red>244</red>
+        <green>244</green>
+        <blue>243</blue>
        </color>
       </brush>
      </colorrole>
@@ -183,27 +183,27 @@
      <colorrole role="Midlight">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>247</red>
-        <green>252</green>
-        <blue>255</blue>
+        <red>249</red>
+        <green>249</green>
+        <blue>249</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Dark">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>120</red>
-        <green>124</green>
-        <blue>127</blue>
+        <red>122</red>
+        <green>122</green>
+        <blue>121</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Mid">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>160</red>
-        <green>166</green>
-        <blue>170</blue>
+        <red>163</red>
+        <green>163</green>
+        <blue>162</blue>
        </color>
       </brush>
      </colorrole>
@@ -246,9 +246,9 @@
      <colorrole role="Window">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>240</red>
-        <green>249</green>
-        <blue>255</blue>
+        <red>244</red>
+        <green>244</green>
+        <blue>243</blue>
        </color>
       </brush>
      </colorrole>
@@ -264,9 +264,9 @@
      <colorrole role="AlternateBase">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>247</red>
-        <green>252</green>
-        <blue>255</blue>
+        <red>249</red>
+        <green>249</green>
+        <blue>249</blue>
        </color>
       </brush>
      </colorrole>
@@ -293,18 +293,18 @@
      <colorrole role="WindowText">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>120</red>
-        <green>124</green>
-        <blue>127</blue>
+        <red>122</red>
+        <green>122</green>
+        <blue>121</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Button">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>240</red>
-        <green>249</green>
-        <blue>255</blue>
+        <red>244</red>
+        <green>244</green>
+        <blue>243</blue>
        </color>
       </brush>
      </colorrole>
@@ -320,36 +320,36 @@
      <colorrole role="Midlight">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>247</red>
-        <green>252</green>
-        <blue>255</blue>
+        <red>249</red>
+        <green>249</green>
+        <blue>249</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Dark">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>120</red>
-        <green>124</green>
-        <blue>127</blue>
+        <red>122</red>
+        <green>122</green>
+        <blue>121</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Mid">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>160</red>
-        <green>166</green>
-        <blue>170</blue>
+        <red>163</red>
+        <green>163</green>
+        <blue>162</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Text">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>120</red>
-        <green>124</green>
-        <blue>127</blue>
+        <red>122</red>
+        <green>122</green>
+        <blue>121</blue>
        </color>
       </brush>
      </colorrole>
@@ -365,27 +365,27 @@
      <colorrole role="ButtonText">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>120</red>
-        <green>124</green>
-        <blue>127</blue>
+        <red>122</red>
+        <green>122</green>
+        <blue>121</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Base">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>240</red>
-        <green>249</green>
-        <blue>255</blue>
+        <red>244</red>
+        <green>244</green>
+        <blue>243</blue>
        </color>
       </brush>
      </colorrole>
      <colorrole role="Window">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>240</red>
-        <green>249</green>
-        <blue>255</blue>
+        <red>244</red>
+        <green>244</green>
+        <blue>243</blue>
        </color>
       </brush>
      </colorrole>
@@ -401,9 +401,9 @@
      <colorrole role="AlternateBase">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>240</red>
-        <green>249</green>
-        <blue>255</blue>
+        <red>244</red>
+        <green>244</green>
+        <blue>243</blue>
        </color>
       </brush>
      </colorrole>
@@ -432,7 +432,7 @@
    <string>Form</string>
   </property>
   <property name="autoFillBackground">
-   <bool>true</bool>
+   <bool>false</bool>
   </property>
   <widget class="QGroupBox" name="SWGB_1">
    <property name="enabled">
@@ -467,9 +467,9 @@
       <colorrole role="Button">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>63</red>
-         <green>186</green>
-         <blue>230</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
@@ -539,18 +539,18 @@
       <colorrole role="Base">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>255</red>
-         <green>255</green>
-         <blue>255</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
       <colorrole role="Window">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>63</red>
-         <green>186</green>
-         <blue>230</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
@@ -604,9 +604,9 @@
       <colorrole role="Button">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>63</red>
-         <green>186</green>
-         <blue>230</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
@@ -676,18 +676,18 @@
       <colorrole role="Base">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>255</red>
-         <green>255</green>
-         <blue>255</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
       <colorrole role="Window">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>63</red>
-         <green>186</green>
-         <blue>230</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
@@ -741,9 +741,9 @@
       <colorrole role="Button">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>63</red>
-         <green>186</green>
-         <blue>230</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
@@ -813,18 +813,18 @@
       <colorrole role="Base">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>63</red>
-         <green>186</green>
-         <blue>230</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
       <colorrole role="Window">
        <brush brushstyle="SolidPattern">
         <color alpha="255">
-         <red>63</red>
-         <green>186</green>
-         <blue>230</blue>
+         <red>244</red>
+         <green>244</green>
+         <blue>243</blue>
         </color>
        </brush>
       </colorrole>
@@ -889,10 +889,10 @@
     <enum>Qt::LeftToRight</enum>
    </property>
    <property name="autoFillBackground">
-    <bool>true</bool>
+    <bool>false</bool>
    </property>
    <property name="styleSheet">
-    <string notr="true">QGroupBox{border-width: 1px; border-style: solid;border-radius:15px;margin-top:15px;border-color:none}
+    <string notr="true">QGroupBox{border-width: 1px; border-style: solid;border-radius:15px;margin-top:15px;border-color:none;background-color:#f4f4f3}
 QGroupBox::title{top:-15px;subcontrol-position: top centerr;margin-top:-10px;color:white}
 QGroupBox::background{margin-top:15px}</string>
    </property>
@@ -912,9 +912,9 @@ QGroupBox::background{margin-top:15px}</string>
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>40</y>
+      <y>30</y>
       <width>531</width>
-      <height>301</height>
+      <height>311</height>
      </rect>
     </property>
     <property name="palette">
@@ -950,8 +950,8 @@ QGroupBox::background{margin-top:15px}</string>
        <colorrole role="Window">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -1006,8 +1006,8 @@ QGroupBox::background{margin-top:15px}</string>
        <colorrole role="Window">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -1053,8 +1053,8 @@ QGroupBox::background{margin-top:15px}</string>
        <colorrole role="Base">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -1062,8 +1062,8 @@ QGroupBox::background{margin-top:15px}</string>
        <colorrole role="Window">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -1108,8 +1108,8 @@ QGroupBox::background{margin-top:15px}</string>
     </property>
     <property name="styleSheet">
      <string notr="true">QLabel{border:1px;border-sytle:solid}
-QGroupBox{margin-top:18px;border-color:white}
-QGroupBox:title{color:white}</string>
+QGroupBox{margin-top:15px;border-color:black;background-color:white}
+QGroupBox:title{color:black}</string>
     </property>
     <property name="title">
      <string>權益數/保證金</string>
@@ -1127,7 +1127,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>60</y>
+       <y>70</y>
        <width>38</width>
        <height>31</height>
       </rect>
@@ -1138,27 +1138,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1167,27 +1167,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1196,27 +1196,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1235,7 +1235,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string>USD :</string>
@@ -1245,7 +1245,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>80</y>
+       <y>90</y>
        <width>215</width>
        <height>41</height>
       </rect>
@@ -1256,27 +1256,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1285,27 +1285,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1314,27 +1314,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1353,7 +1353,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -1363,7 +1363,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>140</y>
+       <y>150</y>
        <width>215</width>
        <height>41</height>
       </rect>
@@ -1374,27 +1374,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1403,27 +1403,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1432,27 +1432,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1471,7 +1471,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -1481,7 +1481,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>120</y>
+       <y>130</y>
        <width>38</width>
        <height>31</height>
       </rect>
@@ -1492,27 +1492,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1521,27 +1521,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1550,27 +1550,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1589,7 +1589,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string>JYP :</string>
@@ -1599,7 +1599,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>200</y>
+       <y>210</y>
        <width>215</width>
        <height>41</height>
       </rect>
@@ -1610,27 +1610,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1639,27 +1639,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1668,27 +1668,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1707,7 +1707,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -1717,7 +1717,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>180</y>
+       <y>190</y>
        <width>38</width>
        <height>31</height>
       </rect>
@@ -1728,27 +1728,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1757,27 +1757,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1786,27 +1786,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1825,7 +1825,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string>HKD :</string>
@@ -1835,7 +1835,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>260</y>
+       <y>270</y>
        <width>215</width>
        <height>41</height>
       </rect>
@@ -1846,27 +1846,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1875,27 +1875,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1904,27 +1904,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1943,7 +1943,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -1953,7 +1953,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>240</y>
+       <y>250</y>
        <width>38</width>
        <height>31</height>
       </rect>
@@ -1964,27 +1964,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -1993,27 +1993,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2022,27 +2022,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2061,7 +2061,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string>EUD :</string>
@@ -2070,8 +2070,8 @@ QGroupBox:title{color:white}</string>
     <widget class="QLabel" name="SWLB_U4">
      <property name="geometry">
       <rect>
-       <x>290</x>
-       <y>80</y>
+       <x>280</x>
+       <y>90</y>
        <width>231</width>
        <height>41</height>
       </rect>
@@ -2082,27 +2082,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2111,27 +2111,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2140,27 +2140,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2179,7 +2179,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -2188,8 +2188,8 @@ QGroupBox:title{color:white}</string>
     <widget class="QLabel" name="SWLB_E4">
      <property name="geometry">
       <rect>
-       <x>290</x>
-       <y>260</y>
+       <x>280</x>
+       <y>270</y>
        <width>231</width>
        <height>41</height>
       </rect>
@@ -2200,27 +2200,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2229,27 +2229,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2258,27 +2258,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2297,7 +2297,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -2306,8 +2306,8 @@ QGroupBox:title{color:white}</string>
     <widget class="QLabel" name="SWLB_H4">
      <property name="geometry">
       <rect>
-       <x>290</x>
-       <y>200</y>
+       <x>280</x>
+       <y>210</y>
        <width>231</width>
        <height>41</height>
       </rect>
@@ -2318,27 +2318,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2347,27 +2347,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2376,27 +2376,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2415,7 +2415,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -2424,8 +2424,8 @@ QGroupBox:title{color:white}</string>
     <widget class="QLabel" name="SWLB_E3">
      <property name="geometry">
       <rect>
-       <x>290</x>
-       <y>240</y>
+       <x>280</x>
+       <y>250</y>
        <width>81</width>
        <height>31</height>
       </rect>
@@ -2436,27 +2436,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2465,27 +2465,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2494,27 +2494,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2533,7 +2533,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string>EUD 損益 :  </string>
@@ -2542,8 +2542,8 @@ QGroupBox:title{color:white}</string>
     <widget class="QLabel" name="SWLB_U3">
      <property name="geometry">
       <rect>
-       <x>290</x>
-       <y>60</y>
+       <x>280</x>
+       <y>70</y>
        <width>81</width>
        <height>31</height>
       </rect>
@@ -2554,27 +2554,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2583,27 +2583,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2612,27 +2612,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2651,7 +2651,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string>USD  損益 :  </string>
@@ -2660,8 +2660,8 @@ QGroupBox:title{color:white}</string>
     <widget class="QLabel" name="SWLB_J3">
      <property name="geometry">
       <rect>
-       <x>290</x>
-       <y>120</y>
+       <x>280</x>
+       <y>130</y>
        <width>81</width>
        <height>31</height>
       </rect>
@@ -2672,27 +2672,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2701,27 +2701,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2730,27 +2730,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2769,7 +2769,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string>JYP   損益 :  </string>
@@ -2778,8 +2778,8 @@ QGroupBox:title{color:white}</string>
     <widget class="QLabel" name="SWLB_H3">
      <property name="geometry">
       <rect>
-       <x>290</x>
-       <y>180</y>
+       <x>280</x>
+       <y>190</y>
        <width>81</width>
        <height>31</height>
       </rect>
@@ -2790,27 +2790,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2819,27 +2819,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2848,27 +2848,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2887,7 +2887,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string>HKD 損益 :  </string>
@@ -2896,8 +2896,8 @@ QGroupBox:title{color:white}</string>
     <widget class="QLabel" name="SWLB_J4">
      <property name="geometry">
       <rect>
-       <x>290</x>
-       <y>140</y>
+       <x>280</x>
+       <y>150</y>
        <width>231</width>
        <height>41</height>
       </rect>
@@ -2908,27 +2908,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2937,27 +2937,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -2966,27 +2966,27 @@ QGroupBox:title{color:white}</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3005,7 +3005,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -3015,7 +3015,7 @@ QGroupBox:title{color:white}</string>
      <property name="geometry">
       <rect>
        <x>0</x>
-       <y>30</y>
+       <y>40</y>
        <width>261</width>
        <height>31</height>
       </rect>
@@ -3035,9 +3035,9 @@ QGroupBox:title{color:white}</string>
         <colorrole role="Button">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
@@ -3062,18 +3062,18 @@ QGroupBox:title{color:white}</string>
         <colorrole role="Base">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Window">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
@@ -3091,9 +3091,9 @@ QGroupBox:title{color:white}</string>
         <colorrole role="Button">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
@@ -3118,18 +3118,18 @@ QGroupBox:title{color:white}</string>
         <colorrole role="Base">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Window">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
@@ -3147,9 +3147,9 @@ QGroupBox:title{color:white}</string>
         <colorrole role="Button">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
@@ -3174,18 +3174,18 @@ QGroupBox:title{color:white}</string>
         <colorrole role="Base">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Window">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>209</red>
+           <green>209</green>
+           <blue>209</blue>
           </color>
          </brush>
         </colorrole>
@@ -3204,12 +3204,12 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:#b5e2ff;
+      <string notr="true">background-color: #d1d1d1;
 color:black;
 font:bold;
 border:1px; 
 border-style:solid;
-border-color:white;
+border-colorblack;
 border-sytle:outset;
 border-width:2px</string>
      </property>
@@ -3224,7 +3224,7 @@ border-width:2px</string>
      <property name="geometry">
       <rect>
        <x>260</x>
-       <y>30</y>
+       <y>40</y>
        <width>271</width>
        <height>31</height>
       </rect>
@@ -3244,9 +3244,9 @@ border-width:2px</string>
         <colorrole role="Button">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
@@ -3271,18 +3271,18 @@ border-width:2px</string>
         <colorrole role="Base">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Window">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
@@ -3300,9 +3300,9 @@ border-width:2px</string>
         <colorrole role="Button">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
@@ -3327,18 +3327,18 @@ border-width:2px</string>
         <colorrole role="Base">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Window">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
@@ -3356,9 +3356,9 @@ border-width:2px</string>
         <colorrole role="Button">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
@@ -3383,18 +3383,18 @@ border-width:2px</string>
         <colorrole role="Base">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Window">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>181</red>
-           <green>226</green>
-           <blue>255</blue>
+           <red>206</red>
+           <green>206</green>
+           <blue>206</blue>
           </color>
          </brush>
         </colorrole>
@@ -3413,12 +3413,12 @@ border-width:2px</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:#b5e2ff;
+      <string notr="true">background-color: #cecece;
 color:black;
 font:bold;
 border:1px; 
 border-style:solid;
-border-color:white;
+border-colorblack;
 border-sytle:outset;
 border-width:2px</string>
      </property>
@@ -3433,7 +3433,7 @@ border-width:2px</string>
      <property name="geometry">
       <rect>
        <x>250</x>
-       <y>30</y>
+       <y>40</y>
        <width>20</width>
        <height>271</height>
       </rect>
@@ -3446,7 +3446,7 @@ border-width:2px</string>
      <property name="geometry">
       <rect>
        <x>0</x>
-       <y>110</y>
+       <y>120</y>
        <width>531</width>
        <height>16</height>
       </rect>
@@ -3459,7 +3459,7 @@ border-width:2px</string>
      <property name="geometry">
       <rect>
        <x>0</x>
-       <y>170</y>
+       <y>180</y>
        <width>531</width>
        <height>16</height>
       </rect>
@@ -3472,7 +3472,7 @@ border-width:2px</string>
      <property name="geometry">
       <rect>
        <x>0</x>
-       <y>230</y>
+       <y>240</y>
        <width>531</width>
        <height>16</height>
       </rect>
@@ -3484,8 +3484,8 @@ border-width:2px</string>
     <widget class="QLabel" name="SWLB_U5">
      <property name="geometry">
       <rect>
-       <x>370</x>
-       <y>60</y>
+       <x>360</x>
+       <y>70</y>
        <width>161</width>
        <height>31</height>
       </rect>
@@ -3496,27 +3496,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3525,27 +3525,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3554,27 +3554,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3593,7 +3593,7 @@ border-width:2px</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -3602,8 +3602,8 @@ border-width:2px</string>
     <widget class="QLabel" name="SWLB_J5">
      <property name="geometry">
       <rect>
-       <x>370</x>
-       <y>120</y>
+       <x>360</x>
+       <y>130</y>
        <width>161</width>
        <height>31</height>
       </rect>
@@ -3614,27 +3614,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3643,27 +3643,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3672,27 +3672,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3711,7 +3711,7 @@ border-width:2px</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -3720,8 +3720,8 @@ border-width:2px</string>
     <widget class="QLabel" name="SWLB_H5">
      <property name="geometry">
       <rect>
-       <x>370</x>
-       <y>180</y>
+       <x>360</x>
+       <y>190</y>
        <width>161</width>
        <height>31</height>
       </rect>
@@ -3732,27 +3732,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3761,27 +3761,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3790,27 +3790,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3829,7 +3829,7 @@ border-width:2px</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -3838,8 +3838,8 @@ border-width:2px</string>
     <widget class="QLabel" name="SWLB_E5">
      <property name="geometry">
       <rect>
-       <x>370</x>
-       <y>240</y>
+       <x>360</x>
+       <y>250</y>
        <width>161</width>
        <height>31</height>
       </rect>
@@ -3850,27 +3850,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3879,27 +3879,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3908,27 +3908,27 @@ border-width:2px</string>
         <colorrole role="WindowText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="Text">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
         <colorrole role="ButtonText">
          <brush brushstyle="SolidPattern">
           <color alpha="255">
-           <red>255</red>
-           <green>255</green>
-           <blue>255</blue>
+           <red>0</red>
+           <green>0</green>
+           <blue>0</blue>
           </color>
          </brush>
         </colorrole>
@@ -3947,7 +3947,7 @@ border-width:2px</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">color:white;font:bold</string>
+      <string notr="true">color:black;font:bold;</string>
      </property>
      <property name="text">
       <string/>
@@ -3981,8 +3981,8 @@ border-width:2px</string>
        <colorrole role="Button">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -4062,8 +4062,8 @@ border-width:2px</string>
        <colorrole role="Window">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -4118,8 +4118,8 @@ border-width:2px</string>
        <colorrole role="Button">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -4199,8 +4199,8 @@ border-width:2px</string>
        <colorrole role="Window">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -4255,8 +4255,8 @@ border-width:2px</string>
        <colorrole role="Button">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -4327,8 +4327,8 @@ border-width:2px</string>
        <colorrole role="Base">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -4336,8 +4336,8 @@ border-width:2px</string>
        <colorrole role="Window">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>230</red>
-          <green>245</green>
+          <red>255</red>
+          <green>255</green>
           <blue>255</blue>
          </color>
         </brush>
@@ -4398,8 +4398,8 @@ border-width:2px</string>
     </property>
     <property name="styleSheet">
      <string notr="true">QLabel{border:1px;border-sytle:solid}
-QGroupBox{margin-top:18px;border-color:white}
-QGroupBox:title{color:white}</string>
+QGroupBox{margin-top:18px;border-color:black;background-color:white}
+QGroupBox:title{color:black}</string>
     </property>
     <property name="title">
      <string>商品壓力測試</string>
@@ -5158,7 +5158,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:white</string>
+      <string notr="true">background-color:#f7f7f7</string>
      </property>
     </widget>
     <widget class="QSpinBox" name="SWSBR_5">
@@ -5362,8 +5362,11 @@ QGroupBox:title{color:white}</string>
        <pointsize>12</pointsize>
       </font>
      </property>
+     <property name="autoFillBackground">
+      <bool>false</bool>
+     </property>
      <property name="styleSheet">
-      <string notr="true">QLabel{border:1px; border-style:solid;border-color:white;background-color:#ffffff}</string>
+      <string notr="true">QLabel{border:1px; border-style:solid;border-color:black;background-color:#f7f7f7}</string>
      </property>
      <property name="text">
       <string/>
@@ -5387,7 +5390,7 @@ QGroupBox:title{color:white}</string>
       </font>
      </property>
      <property name="styleSheet">
-      <string notr="true">QLabel{border:1px; border-style:solid;border-color:white;background-color:#ffffff}</string>
+      <string notr="true">QLabel{border:1px; border-style:solid;border-color:black;background-color:#f7f7f7}</string>
      </property>
      <property name="text">
       <string/>
@@ -5411,7 +5414,7 @@ QGroupBox:title{color:white}</string>
       </font>
      </property>
      <property name="styleSheet">
-      <string notr="true">QLabel{border:1px; border-style:solid;border-color:white;background-color:#ffffff}</string>
+      <string notr="true">QLabel{border:1px; border-style:solid;border-color:black;background-color:#f7f7f7}</string>
      </property>
      <property name="text">
       <string/>
@@ -5435,7 +5438,7 @@ QGroupBox:title{color:white}</string>
       </font>
      </property>
      <property name="styleSheet">
-      <string notr="true">QLabel{border:1px; border-style:solid;border-color:white;background-color:#ffffff}</string>
+      <string notr="true">QLabel{border:1px; border-style:solid;border-color:black;background-color:#f7f7f7}</string>
      </property>
      <property name="text">
       <string/>
@@ -5459,7 +5462,7 @@ QGroupBox:title{color:white}</string>
       </font>
      </property>
      <property name="styleSheet">
-      <string notr="true">QLabel{border:1px; border-style:solid;border-color:white;background-color:#ffffff}</string>
+      <string notr="true">QLabel{border:1px; border-style:solid;border-color:black;background-color:#f7f7f7}</string>
      </property>
      <property name="text">
       <string/>
@@ -5486,7 +5489,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:white</string>
+      <string notr="true">background-color:#f7f7f7</string>
      </property>
     </widget>
     <widget class="QComboBox" name="SWCB_4">
@@ -5507,7 +5510,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:white</string>
+      <string notr="true">background-color:#f7f7f7</string>
      </property>
     </widget>
     <widget class="QComboBox" name="SWCB_5">
@@ -5528,7 +5531,7 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:white</string>
+      <string notr="true">background-color:#f7f7f7</string>
      </property>
     </widget>
     <widget class="QComboBox" name="SWCB_6">
@@ -5549,15 +5552,15 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:white</string>
+      <string notr="true">background-color:#f7f7f7</string>
      </property>
     </widget>
     <widget class="QLabel" name="SWLB_3">
      <property name="geometry">
       <rect>
-       <x>60</x>
+       <x>50</x>
        <y>40</y>
-       <width>51</width>
+       <width>61</width>
        <height>31</height>
       </rect>
      </property>
@@ -5573,12 +5576,12 @@ QGroupBox:title{color:white}</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:#b5e2ff;
+      <string notr="true">background-color: #d1d1d1;
 color:black;
 font:bold;
 border:1px; 
 border-style:solid;
-border-color:white;
+border-colorblack;
 border-sytle:outset;
 border-width:2px</string>
      </property>
@@ -5607,12 +5610,12 @@ border-width:2px</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:#b5e2ff;
+      <string notr="true">background-color: #d1d1d1;
 color:black;
 font:bold;
 border:1px; 
 border-style:solid;
-border-color:white;
+border-colorblack;
 border-sytle:outset;
 border-width:2px</string>
      </property>
@@ -5644,12 +5647,12 @@ border-width:2px</string>
       <bool>false</bool>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:#b5e2ff;
+      <string notr="true">background-color: #d1d1d1;
 color:black;
 font:bold;
 border:1px; 
 border-style:solid;
-border-color:white;
+border-colorblack;
 border-sytle:outset;
 border-width:2px</string>
      </property>
@@ -5678,7 +5681,8 @@ border-width:2px</string>
       </font>
      </property>
      <property name="styleSheet">
-      <string notr="true">background-color:white</string>
+      <string notr="true">background-color:#f5f7f0;
+border-width:2px</string>
      </property>
      <property name="text">
       <string>全部清除</string>
@@ -5689,7 +5693,7 @@ border-width:2px</string>
     <property name="geometry">
      <rect>
       <x>470</x>
-      <y>20</y>
+      <y>10</y>
       <width>78</width>
       <height>25</height>
      </rect>
@@ -5763,7 +5767,7 @@ border-width:2px</string>
     <property name="geometry">
      <rect>
       <x>30</x>
-      <y>20</y>
+      <y>10</y>
       <width>121</width>
       <height>31</height>
      </rect>
